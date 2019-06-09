@@ -6,3 +6,4 @@ COPY env/server.xml conf/server.xml
 COPY target/students-ms.war webapps/students-ms.war
 
 EXPOSE port
+
